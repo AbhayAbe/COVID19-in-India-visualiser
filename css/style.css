@@ -1,0 +1,325 @@
+
+body{
+    text-align: center;
+  
+}
+
+
+
+
+
+@media (min-width: 320px) and (max-height: 800px) and (min-height: 500px){
+    body{
+        text-align: center;
+       overflow: hidden;
+    }
+    svg{
+        position: relative;
+        right: 200px;
+        height: 800px;
+        top: -210px;
+        width: 700px;
+        
+       
+    }
+}
+@media (min-width: 340px) and (max-width:480px) and (max-height:800px) and (min-height: 500px){/*and (max-height: 800px){*/
+    body{
+        text-align: center;
+       overflow: hidden;
+    }
+    svg{
+        position: relative;
+        right: 290px;
+        height: 800px;
+        top: -170px;
+        width: 900px;
+        
+        
+        
+       
+    }
+}
+
+
+@media (min-width: 481px) and (max-width:600px) and (max-height: 800px) and (min-height: 500px){
+    body{
+        text-align: center;
+       overflow: hidden;
+    }
+    svg{
+        position: relative;
+        right: 210px;
+        height: 800px;
+        top: -190px;
+        width: 900px;
+        
+        
+        
+       
+    }
+}
+@media (min-width: 601px) and (max-width:768px) and (max-height: 800px) and (min-height: 500px){
+    body{
+        text-align: center;
+       overflow: hidden;
+    }
+    svg{
+        position: relative;
+        right: 100px;
+        height: 800px;
+        top: -190px;
+        width: 900px;
+        
+        
+        
+       
+    }
+}
+
+@media (min-width: 769px) and (max-width:900px) and (max-height: 800px) and (min-height: 500px){
+    body{
+        text-align: center;
+       overflow: hidden;
+    }
+    svg{
+        position: relative;
+        right: 100px;
+        height: 900px;
+        top: -190px;
+        width: 900px;
+        
+        
+        
+       
+    }
+}
+@media (min-width: 901px) and (max-width:1024px) and (max-height: 800px) and (min-height: 500px){
+    body{
+        text-align: center;
+       overflow: hidden;
+    }
+    svg{
+        position: relative;
+        right: 90px;
+        height: 1000px;
+        top: -190px;
+        width: 1000px;
+        
+        
+        
+       
+    }
+}
+@media (min-width: 1025px) and (max-width:1200px) and (max-height: 800px) and (min-height: 500px){
+    body{
+        text-align: center;
+       overflow: hidden;
+    }
+    svg{
+        position: relative;
+        right: 200px;
+        height: 1200px;
+        top: -190px;
+        width: 1400px;
+        
+        
+        
+       
+    }
+}
+
+
+
+
+@media (min-width: 320px) and (min-height: 801px){
+    body{
+        text-align: center;
+       overflow: hidden;
+    }
+    svg{
+        position: relative;
+        right: 200px;
+        height: 1000px;
+        top: -210px;
+        width: 700px;
+        
+       
+    }
+}
+@media (min-width: 321px) and (max-width: 480px) and (min-height:801px){/*and (min-height: 801){*/
+    body{
+        text-align: center;
+       overflow: hidden;
+    }
+    svg{
+        position: relative;
+        right: 220px;
+        height: 800px;
+        top: -190px;
+        width: 800px;
+        
+    }
+}
+
+
+@media (min-width: 481px) and (max-width:600px) and (min-height:801px){
+    body{
+        text-align: center;
+       overflow: hidden;
+    }
+    svg{
+        position: relative;
+        right: 210px;
+        height: 800px;
+        top: -190px;
+        width: 900px;
+        
+        
+        
+       
+    }
+}
+@media (min-width: 601px) and (max-width:768px) and (min-height:801px){
+    body{
+        text-align: center;
+       overflow: hidden;
+    }
+    svg{
+        position: relative;
+        right: 400px;
+        height: 800px;
+        top: -10px;
+        width: 1400px;
+        
+        
+        
+       
+    }
+}
+
+@media (min-width: 769px) and (max-width:900px)and (min-height:801px){
+    body{
+        text-align: center;
+       overflow: hidden;
+    }
+    svg{
+        position: relative;
+        right: 400px;
+        height: 900px;
+        top: -20px;
+        width: 1500px;
+        
+        
+        
+       
+    }
+}
+@media (min-width: 901px) and (max-width:1024px)and (min-height: 801px){
+    body{
+        text-align: center;
+       overflow: hidden;
+    }
+    svg{
+        position: relative;
+        right:270px;
+        height: 1000px;
+        top: -100px;
+        width: 1400px;
+        
+        
+        
+       
+    }
+}
+@media (min-width: 1025px) and (max-width:1200px)and (min-height: 801px){
+    body{
+        text-align: center;
+       overflow: hidden;
+    }
+    svg{
+        position: relative;
+        right: 200px;
+        height: 1200px;
+        top: -190px;
+        width: 1400px;
+        
+        
+        
+       
+    }
+}
+@media (min-width: 1200px){
+    body{
+        text-align: center;
+       overflow: hidden;
+    }
+    svg{
+        position: relative;
+        right: 10px;
+        height: 1200px;
+        top: -270px;
+        width: 1400px;  
+       
+    }
+}
+
+
+
+#svg2{
+  
+fill: rgb(101, 169, 224);
+
+}
+path:hover{
+    fill: rgb(226, 153, 153);
+}
+path{
+    stroke-width: 1px;
+    stroke: white;
+}
+#IN-DD{
+    fill: rgb(231, 211, 211);
+}
+#IN-DD:hover{
+    fill: rgb(231, 211, 211);
+}
+#IN-JH{
+    fill: rgb(231, 211, 211);
+}
+#IN-ML{
+    fill: rgb(231, 211, 211);
+}
+#IN-ML:hover{
+    fill: rgb(231, 211, 211);
+}
+#IN-NL{
+    fill: rgb(231, 211, 211);
+}
+#IN-NL:hover{
+    fill: rgb(231, 211, 211);
+}
+#IN-SK{
+    fill: rgb(231, 211, 211);
+}
+#IN-SK:hover{
+    fill: rgb(231, 211, 211);
+}
+#IN-TR{
+    fill: rgb(231, 211, 211);
+}
+#IN-TR:hover{
+    fill: rgb(231, 211, 211);
+}
+#IN-AS{
+    fill: rgb(231, 211, 211);
+}
+#IN-AS:hover{
+    fill: rgb(231, 211, 211);
+}
+#IN-AR{
+    fill: rgb(231, 211, 211);
+}
+#IN-AR:hover{
+    fill: rgb(231, 211, 211);
+}
